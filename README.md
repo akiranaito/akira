@@ -1,0 +1,2 @@
+# akira
+Second brain
